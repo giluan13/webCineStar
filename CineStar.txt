@@ -1,0 +1,2 @@
+Buenas noches profesor, al configurar el comando <%@include file="WEB-INF/verCines.jspf" %> podemos variar que pagina 
+queremos ver ya sea la de nuestros cines , las peliculas o etc
